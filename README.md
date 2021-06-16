@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 ## ❤ Connect with me here
 
 [<img align="left" alt="mansi-jain-470121198 | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="mansi142002 | Devpost" width="40px" src="https://iconape.com/wp-content/png_logo_vector/devpost-logo.png"/>][devpost]
-[<img align="left" alt="mansi_jain014 | Twitter" width="40px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>][twitter]
+[<img align="left" alt="mansi_jain014 | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
 [<img align="left" alt="mansi.cpp | Instagram" width="40px" src="https://img.icons8.com/fluent/64/000000/instagram-new.png"/>][instagram]
 [<img align="left" alt="mansi142002 | Medium" width="40px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/>][medium]
+[<img align="left" alt="mansi142002 | Devpost" width="40px" src="https://iconape.com/wp-content/png_logo_vector/devpost-logo.png"/>][devpost]
 [<img align="left" width="40px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
 
 

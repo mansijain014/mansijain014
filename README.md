@@ -1,6 +1,6 @@
 ## Hello World!! I am Mansi Jain <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![mansijain014](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png)][1]
+![mansijain014]()
 
 <a><img src="https://komarev.com/ghpvc/?username=mansijain014&label=Views&color=blue&style=plastic" alt="mansijain014"/></a>
 </center>

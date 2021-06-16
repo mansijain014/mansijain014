@@ -34,7 +34,7 @@
 [<img align="left" alt="mansi142002 | Medium" width="40px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/>][medium]
 [<img align="left" alt="mansi142002 | Devpost" width="40px" src="https://iconape.com/wp-content/png_logo_vector/devpost-logo.png"/>][devpost]
 [<img align="left" width="40px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
-[<img align="left" alt="mansi142002 | Hackerrank" width="40px" height="38px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s640/logo%2Bhackerrank%2Bicon.png"/>][hackerrank]
+[<img align="left" alt="mansi142002 | Hackerrank" width="38px" height="38px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s640/logo%2Bhackerrank%2Bicon.png"/>][hackerrank]
 
 [linkedin]: https://www.linkedin.com/in/mansi-jain-470121198/
 [twitter]: https://twitter.com/mansi_jain014

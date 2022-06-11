@@ -1,4 +1,5 @@
-## Hello World!! I am Mansi Jain <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+## Hello World!! I am Mansi Jain 👋
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
 
 ![mansijain014](mansijain.gif)
 
